@@ -5,9 +5,6 @@
 ```js
 /*
  * creates an empty simulated world with no meaning or purpose.
- * 
- * @author momocashew
- * @lyrics hibiyasleep
  */
 
 // Switch on the power line
