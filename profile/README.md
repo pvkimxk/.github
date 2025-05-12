@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Part of: [ochinpo](https://hf.co/ochinpo)**
+**Part of: [ochinpo(hf)](https://hf.co/ochinpo) ~ [ochinpo(gitlab)](https://gitlab.com/pvkimxk)**
 
 ```js
 /*
